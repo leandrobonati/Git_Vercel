@@ -1,0 +1,5 @@
+{
+  "name": "meu-app",
+  "builds": [{ "src": "package.json", "use": "@vercel/node" }],
+  "outputDirectory": "dist"
+}
